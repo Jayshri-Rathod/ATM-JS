@@ -1,40 +1,4 @@
-// let rlsync=require('readline-sync');
-// var number=Number(rlsync.question("enter number"));
-// if (number%2==0){
-//     console.log("even number")
-// }else{
-//     console.log("odd number")
-// }
 
-// let rlsync=require('readline-sync');
-// var name=rlsync.question("enter you name");
-// if (name=="jayshri"){
-//     var surname=rlsync.question("enter your surname");
-//     if (surname=="rathod"){
-//         var age=rlsync.question("enter your age");
-//         if (age=="34"){
-//             console.log("your aaccount is ready")
-//         }else{
-//             console.log("sorry")
-//         }
-//     }else{
-//         console.log("invalid")
-//     }
-// }else if (name=="divya"){
-//     var surname=rlsync.question("enter your surname");
-//     if (surname=="zha"){
-//         var age=rlsync.question("enter your age");
-//         if (age=="36"){
-//             console.log("you are ready");
-//         }else{
-//             console.log("i am sorry");
-//         }
-//     }else{
-//         console.log("i am not ready")
-//     }
-// }else{
-//     console.log("invalid sorry")
-// }
 
 console.log("welcome to SBI bank");
 let readlineSync = require("readline-sync");
